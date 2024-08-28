@@ -9,3 +9,6 @@
 Для выполнения программы требуется наличие прав суперпользователя и прямой доступ к устройству.
 
 [tcpdump cheatsheet](https://www.comparitech.com/net-admin/tcpdump-cheat-sheet/)
+
+Хорошая статья - https://internet-lab.ru/tcpdump_soft
+
